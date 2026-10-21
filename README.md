@@ -3,13 +3,15 @@
 ## Hard Skills:
 - TypeScript
 - Node.js, NestJS
-- PostgreSQL, MySQL, MariaDB, MongoDB, Redis
-- Apache Kafka, RabbitMQ, BullMQ
-- AWS / WS IAM / AWS EC2 / AWS RDS / AWS S3 / AWS SQS / AWS CW / AWS SM
-- Microservices, GRPC, GraphQL, Socket.io, Sentry, Datadog
+- PostgreSQL, MySQL, MariaDB, MongoDB, Redis, ClickHouse
+- Apache Kafka, RabbitMQ, BullMQ, NATS
+- AWS / AWS IAM / AWS EC2 / AWS RDS / AWS S3 / AWS SQS / AWS CloudWatch / AWS Secrets Manager / AWS CloudFront / AWS ECS / AWS Fargate
+- Terraform, Argo CD, Kubernetes
+- Microservices, GRPC, GraphQL, Socket.io, Sentry, Datadog, Grafana, Prometheus, OpenSearch
 - Jira
 
 ## Work Experience:
+- Boosta - Senior Backend Engineer
 - NDA - Middle Backend Engineer
 - NDA - Middle Backend Engineer
 - Corpsoft - Middle Backend Engineer / Team Lead
